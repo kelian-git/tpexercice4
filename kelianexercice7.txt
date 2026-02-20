@@ -1,0 +1,1 @@
+Git pull sert a recuperer toutes les modifications qui ont ete faites sur git pour mettre a jour notre machine avec les differentes branches git
