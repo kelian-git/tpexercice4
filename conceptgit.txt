@@ -1,0 +1,7 @@
+Git permet de faire de la gestion version.
+
+- git add permet d'ajouter le fichier dans le stating area
+- commit permet de mettre le fichier dans le repo
+- git branch permet de creer une nouvelle branch
+- git switch permet de changer de branch
+- git merge permet de modifier le code de la branche ou l'on ce trouve depuis celle qui a été modifier.
