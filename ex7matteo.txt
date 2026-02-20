@@ -1,0 +1,7 @@
+Le git branch sert a voir les branches qui sont créer dans le repos.
+Il y a plusieurs commande branch:
+- git branch nom_branche = créer une nouvelle branche;
+- git switch branch nom_branche = change de branche;
+- git branch -d nom_branche = supprime une branche;
+etc
+créer des branches sert a pouvoir travailler en equipe sans devoir regler des confilts tout le temps et de mieux structurer le projet.
